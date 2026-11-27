@@ -1,5 +1,7 @@
 # Lean-CuREV: Un approccio pratico e sostenibile alla pulizia dei dataset di Code Review
 
+[![Open In Colab](https://google.com)](https://google.com)
+
 Progetto realizzato per il corso di Intelligenza Artificiale, ispirato allo studio *"Towards Better Code Reviews: Using LLM-as-a-Judge for Dataset Curation"* (`CuREV` / `CuREV+`).
 
 ---
