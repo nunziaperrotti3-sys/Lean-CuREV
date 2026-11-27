@@ -1,6 +1,6 @@
 # Lean-CuREV: Un approccio pratico e sostenibile alla pulizia dei dataset di Code Review
 
-🚀 **[Visualizza il Notebook Python completo (Codice e Risultati)](https://github.com)**
+🚀 **[Apri il Notebook su Google Colab](https://colab.research.google.com/drive/1PkZdNIaxO8j3ZkPh6X8NoFaaI1uKeO94#scrollTo=EQd_rHQvfXW3)**
 
 Progetto realizzato per il corso di Intelligenza Artificiale, ispirato allo studio *"Towards Better Code Reviews: Using LLM-as-a-Judge for Dataset Curation"* (`CuREV` / `CuREV+`).
 
