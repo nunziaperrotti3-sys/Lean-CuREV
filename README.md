@@ -9,6 +9,8 @@ Lo studio originale offre un contributo metodologico di grande valore e rigore s
 
 Partendo da questa solida base, **Lean-CuREV** nasce con l'obiettivo di esplorare un adattamento complementare orientato all'accessibilità e alla sostenibilità: verificare se sia possibile ottenere un buon compromesso tra efficienza e qualità su hardware consumer (come una singola GPU gratuita su Google Colab T4), mantenendo l'attenzione sui tre criteri qualitativi dello studio (**Educatezza, Concisione e Chiarezza**).
 
+L'intero flusso preserva comunque un'**automazione completa (*end-to-end*, senza alcun intervento manuale)**, adottando un'architettura a cascata in cui regole deterministiche, classificatori leggeri e modelli generativi collaborano in sequenza per rendere il processo agile e facilmente replicabile.
+
 ---
 
 ## ⚙️ Architettura della Pipeline (3 Fasi)
