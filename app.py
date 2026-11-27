@@ -75,4 +75,3 @@ try:
 
 except FileNotFoundError:
     st.error("File `risultati_confronto_lean_curev_v2.xlsx` non trovato nella directory corrente.")
-
