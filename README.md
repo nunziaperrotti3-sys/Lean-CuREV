@@ -45,6 +45,6 @@ Test eseguito su un campione estratto dal dataset `OussamaBS/CuREV-plus` su sing
 ---
 
 ## 📁 Struttura della Repository
-* `pipeline_lean_curev.ipynb` — Notebook Python completo con l'implementazione delle 3 fasi e i test su GPU.
+* `Untitled4.ipynb` — Notebook Python completo con l'implementazione delle 3 fasi e i test su GPU.
 * `risultati_confronto_lean_curev_v2.xlsx` — Tabella con i confronti diretti tra commenti originali, motivazione del filtro (`esito_filtro`), dataset `CuREV+` e riscritture contestuali generate dal modello.
 
